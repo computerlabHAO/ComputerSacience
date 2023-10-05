@@ -1,0 +1,14 @@
+<DOCTYPE>
+ <HTML>
+<body>
+             <HL>date type.</hl>
+            <p id=p1''></p.>
+            <p id=''p2''></p>
+            <p id=''p3''></p>
+            <p id=''p4''></p>
+            <p id=''p5''></p>
+            <script>
+             var myvariablr = 1; //numeric value
+             document .getElementbyid{''p1''}.textContent = typeof myvariable;
+                document .getElementbyid{''p2''}.textContent =typeof 
+             
